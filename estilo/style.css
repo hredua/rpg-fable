@@ -236,6 +236,7 @@ main div.contato {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
     margin: 20px 25px 0px 25px;
 }
 
